@@ -1,0 +1,5 @@
+project: ckb-vm
+target: asm
+
+cmds:
+    - cmd: /asm
